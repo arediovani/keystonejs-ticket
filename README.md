@@ -1,4 +1,4 @@
-# KeystoneJS Starter Template
+# KeystoneJS STicket Application
 
 Simple Ticket Support application with Keystone JS
 ## Running the Project.
